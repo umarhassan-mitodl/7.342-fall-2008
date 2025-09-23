@@ -1,0 +1,48 @@
+{
+  "term": "Fall",
+  "year": "2008",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Probability and Statistics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Computation and Systems Biology"
+    ]
+  ],
+  "legacy_uid": "f204f544-a897-51af-88a6-49d2d493e5a7",
+  "instructors": {
+    "content": [
+      "b4b63c36-292a-b08f-bd21-0252707b9c2e",
+      "6cb127fe-5c4e-2e20-ff15-30dd6c2888cc"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1693f6ab-717d-22fb-d0cc-61d9de86068b",
+    "website": "7-342-systems-biology-stochastic-processes-and-biological-robustness-fall-2008"
+  },
+  "course_title": "Systems Biology: Stochastic Processes and Biological Robustness",
+  "course_description": "In this seminar, we will discuss some of the main themes that have arisen in the field of systems biology, including the concepts of robustness, stochastic cell-to-cell variability, and the evolution of molecular interactions within complex networks.\n\nThis course is one of many {{% resource_link \"394a5e84-37e0-449c-b08b-01d24991b992\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.342",
+  "course_image_thumbnail": {
+    "content": "4d390466-1811-1e51-ef96-72ca3c3d1001",
+    "website": "7-342-systems-biology-stochastic-processes-and-biological-robustness-fall-2008"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "94b2dc6f-25c1-42ca-8043-abf00491ed90",
+  "site_short_id": "7.342-fall-2008",
+  "site_url_path": "courses/7-342-systems-biology-stochastic-processes-and-biological-robustness-fall-2008",
+  "title": "Course Metadata"
+}
