@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the schedule of lecture topics and brief summaries
   of each lecture.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -153,7 +155,7 @@ Circadian oscillations are 24-hour cellular oscillations that can be entrained b
 Field trip
 {{< tdclose >}}
 {{< tdopen >}}
-This week, we will take a field trip to the laboratory of {{% resource_link "ae5453e1-aae7-42e6-8967-64b63fa2798b" "Sunney Xie in the Chemistry and Chemical Biology Department at Harvard University" %}} (see paper from week 5 in {{% resource_link d90bf707-ed30-9766-70f1-b4090aeef696 "Readings" %}}). The goal is to expose students to current work in the field while also highlighting some of experimental methods that systems biologists use in their research.
+This week, we will take a field trip to the laboratory of [Sunney Xie in the Chemistry and Chemical Biology Department at Harvard University](http://harvard.sunneyxielab.org/pages/AboutProfXie.html) (see paper from week 5 in {{% resource_link d90bf707-ed30-9766-70f1-b4090aeef696 "Readings" %}}). The goal is to expose students to current work in the field while also highlighting some of experimental methods that systems biologists use in their research.
 {{< tdclose >}}
 
 {{< trclose >}}
