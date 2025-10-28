@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides information on the course assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -24,4 +22,4 @@ Assignment 2 (Due during Ses #12)
 
 Below is a link to an abstract of a paper. In two double-spaced pages, please provide a possible title together with a discussion of the experiments and computational experiments that may have been performed in order to justify the abstract. Pay particular attention to experimental design, controls, strains, and measurement techniques.
 
-Strickler, J., S. Cookson, M. R. Bennett, W. H. Mather, L. S. Tsimring, and J. Hasty. "[A fast, robust and tunable synthetic gene oscillator](http://www.nature.com/nature/journal/v456/n7221/abs/nature07389.html)." _Nature_ 456 (2008): 516-20.
+Strickler, J., S. Cookson, M. R. Bennett, W. H. Mather, L. S. Tsimring, and J. Hasty. "{{% resource_link "f6cd6477-42de-4b6d-acaa-ae5ce6e5a962" "A fast, robust and tunable synthetic gene oscillator" %}}." _Nature_ 456 (2008): 516-20.
